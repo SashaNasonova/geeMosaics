@@ -1,6 +1,8 @@
 # geeMosaics
 A jupyter notebook to create composite mosaics from Sentinel-2 MSI Surface Reflectance imagery. 
 
+This script is in progress. I am working on adding an alpha band to the mosaics for posting to WMS/WMTS.
+
 Installation
 ---------------------
 Sign up for a Google Earth Engine account if you don't already have one (https://signup.earthengine.google.com/). 
