@@ -1,4 +1,4 @@
-# gee_mosaics
+# geeMosaics
 A jupyter notebook to create composite mosaics from Sentinel-2 MSI Surface Reflectance imagery. 
 
 Installation
