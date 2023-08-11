@@ -22,7 +22,7 @@ Install Anaconda (https://docs.anaconda.com/free/anaconda/install/windows/).
 
 In Anaconda Prompt, create a new environment called gee.
 ```
-conda create -n gee
+conda create -n gee python=3.10
 ```
 Activate it,
 ```
